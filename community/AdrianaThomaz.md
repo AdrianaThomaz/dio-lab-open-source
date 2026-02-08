@@ -2,7 +2,6 @@
 > **Back-end Python Developer | Agentes de IA | Automação e Análise de Dados**
 
 
-
 ### 👩‍💻 Sobre Mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre)com foco em **Back-end** e soluções inteligentes com **IA**
 Minha trajetória de Orientadora Social do CRAS, para o desenvolvimento de sistemas robustos, APIs RESTful e automação de fluxos de dados
